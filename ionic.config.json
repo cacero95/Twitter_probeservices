@@ -1,5 +1,7 @@
 {
   "name": "twitter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
